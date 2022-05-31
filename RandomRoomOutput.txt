@@ -1,0 +1,35 @@
+Using Default Constructor . . .
+Drawing the room . . .
+xxxxx
+ .|.x
+x---x
+x...
+xxxxx
+Using Parameter Constructor . . . (.5)
+Drawing the room . . .
+xxxxxxxxxx
+ ...|....
+x...|....x
+x...|....x
+x...|....x
+x...|....x
+x--------x
+x........x
+x........x
+xxxxxxx xx
+Using Parameter Constructor . . . (.5)
+Drawing the room . . .
+xxxxxxxxxxx
+ ..|......
+x..|......x
+x..|......x
+x..|......x
+x---------x
+x.........x
+x.........x
+x.........x
+xxxxxxxx xx
+Using Parameter Constructor . . . (0)
+Complete!
+
+Process finished with exit code 0

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/RandomRoom.hpp
+random
+-
+iomanip
+-
+
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/RoomView.hpp
+map
+-
+RandomRoom.hpp
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/RandomRoom.hpp
+
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/main.cpp
+iostream
+-
+RandomRoom.hpp
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/RandomRoom.hpp
+RoomView.hpp
+/Users/carly/Documents/Coding/CS320/P3-RoomDivider/RoomView.hpp
+
